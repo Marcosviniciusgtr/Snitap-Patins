@@ -34,9 +34,9 @@ html, button {
   font: 500 1rem/1.5 var(--ff-base);
 }
 
-/* html {
-  zoom: .5;
-} */
+html {
+  zoom: .6;
+}
 
 
 h1, h2 {
