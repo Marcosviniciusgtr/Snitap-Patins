@@ -7,7 +7,7 @@
 - [Funcionalidades](#-funcionalidades)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Layouts](#-layouts)
-- [Como Executar](#-como-executar)
+
 
 ## 📋 Funcionalidades
 
