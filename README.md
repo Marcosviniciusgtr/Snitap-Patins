@@ -24,7 +24,8 @@
 ## 📱 Layouts
 
 ### Modelo Desktop
-![Layout Desktop](./assets/Layout-desktop.png)
+![Layout desktop](https://github.com/user-attachments/assets/fc7c4054-6832-44d4-a20f-65824307744c)
+
 
 ## 💡 Mentoria
 
